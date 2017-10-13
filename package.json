@@ -1,0 +1,9 @@
+{
+    "name": "bobber",
+    "description": "data beacon",
+    "version": "0.0.2",
+    "private": true,
+    "dependencies": {
+        "https": "*"
+    }   
+}
