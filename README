@@ -1,3 +1,5 @@
 1. install and run
  - npm install
- - node get.js
+ - node get.js <zip code> <zip code> ....
+ - example using for loop:
+-- for zip in `cat list`;do node get.js $zip;done
